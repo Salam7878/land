@@ -1,0 +1,16 @@
+a{
+  text-decoration: none;
+  float: right;
+  margin: 20px;
+  padding: 5px 10px;
+    color: white;
+}
+a:hover{
+  background-color: black;
+}
+.active{
+  background-color: green;
+}
+body{
+  background-color: blue;
+}
